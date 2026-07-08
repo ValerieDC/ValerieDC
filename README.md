@@ -18,6 +18,7 @@ I'm currently strengthening my programming skills (Python, web development) to m
 - **[Video Game Sales Dashboard](https://github.com/ValerieDC/video-game-sales-dashboard)** — Power BI dashboard analyzing global sales trends, regional performance, and platform/genre breakdowns.
 - **[Dental Clinic Database Design](https://github.com/ValerieDC/dental-clinic-database)** — Relational database design (ER modeling + SQL) for a real-world healthcare use case.
 - **[Data Cleaning with SQL](https://github.com/ValerieDC/data-cleaning-sql)** — Identifying and fixing data quality issues (duplicates, missing values, inconsistent formatting) using SQL.
+- - **[Data Cleaning with Python](https://github.com/ValerieDC/data-cleaning-python)** — Python/pandas version of my SQL data cleaning project: fixing duplicates, missing values, and inconsistent formats, with a before/after visualization.
 
 ## 🌱 Currently learning
 
