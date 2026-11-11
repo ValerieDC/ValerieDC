@@ -1,31 +1,56 @@
 # Hi, I'm Valerie 👋
 
-Software Engineering student (9th quatrimester, Universidad APEC) building a path toward **Data Engineering**, with a strong foundation in SQL, database design, and Business Intelligence.
+Software Engineering student at Universidad APEC, with 90% of credits completed, focused on becoming a **Database Administrator (DBA)**.
 
-I'm currently strengthening my programming skills (Python, web development) to move from analyzing data to building the systems that produce it.
+I have hands-on practice with **Microsoft SQL Server, T-SQL, relational database design, backup automation, and storage management**. My goal is to grow into a Junior DBA role and deepen my knowledge of database recovery, security, monitoring, and performance.
 
-## 🧰 Tech I work with
+## 🧰 Tools & Technologies
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Python](https://img.shields.io/badge/Python_(learning)-3776AB?style=flat-square&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+- Microsoft SQL Server
+- SQL Server Management Studio (SSMS)
+- T-SQL
+- SQL Server Agent
+- Database Mail
+- Git & GitHub
 
-## 📌 Featured projects
+## 📌 Projects & Hands-on Practice
 
-- **[Video Game Sales Dashboard](https://github.com/ValerieDC/video-game-sales-dashboard)** — Power BI dashboard analyzing global sales trends, regional performance, and platform/genre breakdowns.
-- **[Dental Clinic Database Design](https://github.com/ValerieDC/dental-clinic-database)** — Relational database design (ER modeling + SQL) for a real-world healthcare use case.
-- **[Data Cleaning with SQL](https://github.com/ValerieDC/data-cleaning-sql)** — Identifying and fixing data quality issues (duplicates, missing values, inconsistent formatting) using SQL.
-- **[Data Cleaning with Python](https://github.com/ValerieDC/data-cleaning-python)** — Python/pandas version of my SQL data cleaning project: fixing duplicates, missing values, and inconsistent formats, with a before/after visualization.
+### SQL Server Administration Lab
 
-## 🌱 Currently learning
+Database administration exercises using **AdventureWorks2022** in a local lab environment:
 
-Python for data manipulation, and the fundamentals of web development, to build toward data engineering and, eventually, full end-to-end data pipelines.
+- Created separate SQL Server Agent jobs for **FULL, DIFFERENTIAL, and transaction LOG backups**.
+- Configured recurring schedules: full backups every hour, differential backups every 30 minutes, and log backups every 5–10 minutes.
+- Automated backup file naming with date and time.
+- Reviewed job execution history and generated backup files.
+- Configured Database Mail and successfully sent a test email.
+- Created databases, filegroups, and data files, and observed storage growth.
+- Queried system catalog views and reviewed database and table space usage.
+
+*Backup schedules were configured for learning purposes.*
+
+### Dental Clinic Database Design
+
+Relational database design for a dental clinic, including:
+
+- Entity-relationship modeling.
+- Normalization.
+- SQL scripts to create tables and relationships.
+- Primary and foreign keys.
+
+## 🌱 Currently Learning
+
+- Backup and recovery strategies.
+- Database users, roles, and permissions.
+- Monitoring and troubleshooting blocking.
+- Query execution plans and performance fundamentals.
+
+## 🎯 Career Goal
+
+Seeking **Junior DBA or Database Support opportunities** where I can contribute, learn from experienced professionals, and continue developing my database administration skills.
 
 ## 📫 Contact
 
-- LinkedIn: [linkedin.com/in/valerie-de-la-cruz-cleto](https://linkedin.com/in/valerie-de-la-cruz-cleto)
-- Email: valerie18092005@gmail.com
-- GitHub: [@ValerieDC](https://github.com/ValerieDC)
+- [LinkedIn](https://www.linkedin.com/in/valerie-de-la-cruz-cleto)
+- [Email](mailto:valerie18092005@gmail.com)
+- [GitHub](https://github.com/ValerieDC)
